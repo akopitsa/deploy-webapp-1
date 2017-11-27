@@ -1,0 +1,21 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "sites_my24maywebapp1_name": {
+            "value": null
+        },
+        "serverfarms_my24maywebapp1_name": {
+            "value": null
+        },
+        "config_web_name": {
+            "value": null
+        },
+        "hostNameBindings_my24maywebapp1.azurewebsites.net_name": {
+            "value": null
+        },
+        "deployments_dfd05f422a5fcee763deb466cce51d9e4f3e34eb_name": {
+            "value": null
+        }
+    }
+}
